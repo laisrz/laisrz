@@ -6,7 +6,7 @@
 
 - 🔭 No momento estou trabalhando em um web app para ecommerce, [Galaxy Attire](https://github.com/laisrz/GalaxyAttire)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [lais-zahran](https://github.com/laisrz)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [lais-zahran](https://github.com/laisrz?tab=repositories)
 
 - 🌱 Estou aprendendo **Django, GCP, banco de dados e muito mais!**
 
