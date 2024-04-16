@@ -29,6 +29,8 @@
 </p>
 
 
-![Snake animation](https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/snake.svg)
+![Snake animation](https://github.com/laisrz/laisrz/blob/main/snake.svg)
+
+
 
 
