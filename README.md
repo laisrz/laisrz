@@ -29,7 +29,7 @@
 </p>
 
 
-![Snake animation](https://github.com/laisrz/laisrz/blob/main/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/laisrz/laisrz/output/github-contribution-grid-snake-dark.svg)
 
 
 
