@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Laís Zahran</h1>
 <h3 align="center">Desenvolvedora web, apaixonada por tecnologia</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 No momento estou trabalhando em um web app para ecommerce, [Galaxy Attire](https://github.com/laisrz/GalaxyAttire)
 
