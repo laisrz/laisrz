@@ -10,7 +10,7 @@
 
 - 🌱 Estou aprendendo **Django, GCP, banco de dados e muito mais!**
 
-- 📫 Conecte-se comigo em **https://www.linkedin.com/in/laisrz/**
+- 📫 Conecte-se comigo no LinkedIn: [Laís Zahran](https://www.linkedin.com/in/laisrz/)
 
 - ⚡ Fun fact **eu gosto de experimentar com projetos DIY e já renovei vários móveis em casa!**
 <br><br><br><br><br>
