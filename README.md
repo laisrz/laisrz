@@ -9,6 +9,8 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em [lais-zahran](https://github.com/laisrz?tab=repositories)
 
 - 🌱 Estou aprendendo **Django, GCP, banco de dados e muito mais!**
+  
+- 📝 Eu escrevo artigos em [Dev.to](https://dev.to/laisrz)
 
 - 📫 Conecte-se comigo no LinkedIn: [Laís Zahran](https://www.linkedin.com/in/laisrz/)
 
