@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Laís Zahran</h1>
 <h3 align="center">Desenvolvedora web, apaixonada por tecnologia</h3>
-<br>
+<br><br>
 <img align="right" alt="Coding" width="300" height="230" src="https://github.com/laisrz/laisrz/assets/107775711/b9e62f90-0d66-47b8-86f1-94ca3219bca4">
 
 
